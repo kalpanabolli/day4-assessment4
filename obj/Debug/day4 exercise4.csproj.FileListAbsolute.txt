@@ -1,0 +1,8 @@
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\bin\Debug\day4 exercise4.exe.config
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\bin\Debug\day4 exercise4.exe
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\bin\Debug\day4 exercise4.pdb
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\obj\Debug\day4 exercise4.csproj.AssemblyReference.cache
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\obj\Debug\day4 exercise4.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\obj\Debug\day4 exercise4.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\obj\Debug\day4 exercise4.exe
+D:\Simply Learn\day4\day4 exercise4\day4 exercise4\obj\Debug\day4 exercise4.pdb
